@@ -1,4 +1,4 @@
-cm10_device_htc_golfu
+cm10.1 device htc golfu
 =====================
 
-HTC Desire C (Golf U) device tree for building CM10 rom
+HTC Desire C device tree for building CM10.1 rom
